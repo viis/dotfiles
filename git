@@ -1,0 +1,14 @@
+[user]
+	name = Vignir Isberg
+	email = vigniri@gmail.com
+[color]
+	status = auto
+	branch = auto
+[alias]
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    df = diff
+    sm = submodule
+    l = log --oneline
