@@ -20,7 +20,6 @@ alias lt='ls -lt'
 export HISTFILESIZE=1000000 # save all the histories
 export HISTSIZE=1000000
 export HISTCONTROL=ignoreboth # ignore duplicates and empty commands in history
-shopt -s checkwinsize
 
 # vi mode
 set -o vi

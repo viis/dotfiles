@@ -49,7 +49,6 @@ set -g message-attr bright
 set -g status-left-length 40
 set -g status-left "#[fg=green]Session: #S #[fg=yellow]#I #[fg=cyan]#P"
 set -g status-right "#[fg=cyan]%d %b %T"
-set -g status-utf8 on
 set -g status-justify centre
 setw -g monitor-activity on
 set -g visual-activity on
