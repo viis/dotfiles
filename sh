@@ -1,4 +1,4 @@
-export EDITOR = 'vim'
+export EDITOR='vim'
 
 # modified commands
 alias df='df -h'
