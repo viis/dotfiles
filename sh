@@ -11,7 +11,6 @@ alias t1='tail -n 100'
 alias t2='tail -n 200'
 alias t3='tail -n 300'
 alias c='clear'
-alias dch="dch -D $(lsb_release -c -s)"
 
 # ls
 alias ls='ls -hFG'
