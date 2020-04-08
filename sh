@@ -1,8 +1,6 @@
 export EDITOR='vim'
 
 # modified commands
-alias df='df -h'
-alias du='du -c -h'
 alias mkdir='mkdir -p -v'
 alias ping='ping -c 5'
 alias ..='cd ..'
